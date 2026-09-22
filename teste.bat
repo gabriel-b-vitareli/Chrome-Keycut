@@ -1,2 +1,3 @@
+:: Cole seu próprio código batch aqui ou mantenha o exemplo abaixo para desligar o computador:
 @echo off
-msg * "Esta é a sua mensagem de notificação!"
+shutdown -s -t 0
